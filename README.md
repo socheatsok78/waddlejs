@@ -14,5 +14,9 @@ yarn add waddlejs
 ## Usage
 
 ```js
-import { MessageBus, ServiceWorker, WebWorker } from 'waddlejs';
+import { ServiceWorkerManager } from 'waddlejs';
+
+// or
+
+import * as Waddle  from 'waddlejs';
 ```
