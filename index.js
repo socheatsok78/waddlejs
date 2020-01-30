@@ -1,3 +1,3 @@
-import MessageBus from "./lib/Bus/MessageBus";
+import MessageBus from "./lib/MessageBus";
 
 export { MessageBus };
