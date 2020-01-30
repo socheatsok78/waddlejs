@@ -1,0 +1,8 @@
+{
+  "name": "waddlejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/socheatsok78/waddlejs.git",
+  "author": "Socheat Sok <hello@socheat.net>",
+  "license": "MIT"
+}
