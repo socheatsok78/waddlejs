@@ -18,5 +18,5 @@ import { ServiceWorkerManager } from 'waddlejs';
 
 // or
 
-import * as Waddle  from 'waddlejs';
+import * as Waddle from 'waddlejs';
 ```
